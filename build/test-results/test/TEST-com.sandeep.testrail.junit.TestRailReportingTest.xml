@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sandeep.testrail.junit.TestRailReportingTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-08-04T02:23:01" hostname="srao1.morningstar.com" time="0.012">
+  <properties/>
+  <testcase name="testCanary()" classname="com.sandeep.testrail.junit.TestRailReportingTest" time="0.012"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

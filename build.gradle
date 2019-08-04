@@ -1,0 +1,21 @@
+plugins {
+    id 'java'
+}
+
+group 'com.sandeep'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'com.codepine.api:testrail-api-java-client:2.0.0'
+    compile    'org.junit.jupiter:junit-jupiter-api:5.4.2'
+    compile    'org.junit.jupiter:junit-jupiter-engine:5.4.2'
+}
+test {
+    useJUnitPlatform()
+}
